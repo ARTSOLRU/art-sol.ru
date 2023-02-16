@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /page8908391.html
+Disallow: /page8908518.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: https://art-sol.ru/sitemap.xml
+Host: https://art-sol.ru
